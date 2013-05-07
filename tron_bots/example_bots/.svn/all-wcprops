@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/example_bots
+END
+RandomBot.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/example_bots/RandomBot.jar
+END
+Chaser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/example_bots/Chaser.jar
+END
+RunAway.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/example_bots/RunAway.jar
+END
+WallHugger.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/example_bots/WallHugger.jar
+END

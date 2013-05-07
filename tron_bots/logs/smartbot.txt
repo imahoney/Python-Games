@@ -1,0 +1,128 @@
+--- 'logs/smartbot.txt' at Fri Mar 12 11:35:27 2010 --- 
+And so it begins...
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['South']
+No sign of them yet.  Facing South.
+Searching... moves are ['East', 'South', 'West']
+No sign of them yet.  Facing East.
+Searching... moves are ['South']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East', 'West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['North', 'East']
+No sign of them yet.  Facing North.
+Searching... moves are ['East']
+No sign of them yet.  Facing East.
+Searching... moves are ['North', 'East', 'South']
+No sign of them yet.  Facing North.
+Searching... moves are ['East']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['East', 'South']
+No sign of them yet.  Facing East.
+Searching... moves are ['South']
+No sign of them yet.  Facing South.
+Searching... moves are ['East', 'South', 'West']
+No sign of them yet.  Facing East.
+Searching... moves are ['South']
+No sign of them yet.  Facing South.
+Searching... moves are ['East', 'South', 'West']
+No sign of them yet.  Facing East.
+Searching... moves are ['South']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['West']
+No sign of them yet.  Facing West.
+Searching... moves are ['North', 'South', 'West']
+No sign of them yet.  Facing South.
+Searching... moves are ['West']
+No sign of them yet.  Facing West.
+I've spotted them!  Attack mode activated!
+They're North of me!
+They're North of me!
+They're West of me!
+They're North of me!
+They're West of me!

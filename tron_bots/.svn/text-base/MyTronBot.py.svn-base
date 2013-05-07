@@ -1,0 +1,50 @@
+#!/usr/bin/python
+
+"""Template for your tron bot"""
+
+import tron
+
+import random
+
+#1. determine strategy to use
+#		in same area as opponent?
+#		how far away is opponent?
+#		how much space is left where?
+
+#2. use that strategy to determine a move
+#		seperate from opponent: try to fill space as efficiently as possible
+#		far from opponent: try to divide area
+#		near opponent: try to cut him off and force him into smaller area.
+
+#3. make that move
+
+def which_move(board):
+
+    # fill in your code here. it must return one of the following directions:
+    #   tron.NORTH, tron.EAST, tron.SOUTH, tron.WEST
+
+    # For now, choose a legal move randomly.
+    # Note that board.moves will produce [NORTH] if there are no
+    # legal moves available.
+	
+	my_moves = board.moves()
+	
+	them_y, them_x = board.them()
+	me_y, me_x = board.me()
+
+	if (them_y < me_y) and 1 in my_moves:
+		return 1
+	elif (them_y > me_y) and 3 in my_moves:
+		return 3
+	elif (them_x < me_x) and 4 in my_moves:
+		return 4
+	elif (them_x > me_x) and 2 in my_moves:
+		return 2
+	
+	else:
+		return random.choice(board.moves())
+		
+
+# you do not need to modify this part
+for board in tron.Board.generate():
+    tron.move(which_move(board))

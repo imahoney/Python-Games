@@ -1,0 +1,79 @@
+8
+
+dir
+7
+https://imahoney-pytrobot.googlecode.com/svn/trunk/engine/python
+https://imahoney-pytrobot.googlecode.com/svn
+
+
+
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+
+
+svn:special svn:externals svn:needs-lock
+
+player.py
+file
+
+
+
+
+2010-02-23T19:09:49.000000Z
+aa1540bc0b97d925ae329466f7379ce1
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+has-props
+
+tournament.py
+file
+
+
+
+
+2010-02-23T19:10:00.000000Z
+c49d7dfd6f1348b251a223cf9e138d40
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+has-props
+
+colorize.py
+file
+
+
+
+
+2010-02-23T19:09:36.000000Z
+9fc62d9f32c241c47479417f10c606cb
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+
+board.py
+file
+
+
+
+
+2010-02-23T19:09:35.000000Z
+eb71e73754bd3c6866327e5b30662db7
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+
+round.py
+file
+
+
+
+
+2010-02-23T19:09:59.000000Z
+8d34b978ce239a706688074101f1c615
+2010-02-23T19:10:43.890209Z
+7
+busterblabs@yahoo.com
+has-props
+

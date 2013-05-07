@@ -1,0 +1,1 @@
+This repository simply contains a number of programs I wrote in Python to implement fairly simple games.  They were created while I was a student at Marlboro College.
